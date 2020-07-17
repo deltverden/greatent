@@ -1,1 +1,2 @@
 First message!
+I think it will be last message in this file.
